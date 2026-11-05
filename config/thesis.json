@@ -1,0 +1,38 @@
+{
+  "name": "Family Ventures public thesis - Venture pre-screening",
+  "source_note": "Built from Family Ventures' public website. It is an illustrative pre-screening framework, not an official or complete investment mandate.",
+  "scope": "Venture opportunities only. Secondary and buyout opportunities are outside this MVP.",
+  "human_review_required": true,
+  "criteria": [
+    {
+      "id": "b2b_relevance",
+      "label": "B2B or enterprise relevance",
+      "description": "The company sells to businesses, enterprises, industrial customers or institutions.",
+      "weight": 3
+    },
+    {
+      "id": "international_ambition",
+      "label": "International or global-first ambition",
+      "description": "The company operates internationally or has a credible plan to expand beyond one domestic market.",
+      "weight": 2
+    },
+    {
+      "id": "priority_theme",
+      "label": "Relevant technology or transition theme",
+      "description": "The company operates in Enterprise AI, Physical AI, energy, climate, longevity, fintech, digital or a closely related area.",
+      "weight": 2
+    },
+    {
+      "id": "industrial_transformation",
+      "label": "Industrial transformation or European competitiveness",
+      "description": "The company can transform an industry, strengthen essential infrastructure or improve European competitiveness.",
+      "weight": 2
+    },
+    {
+      "id": "network_leverage",
+      "label": "Potential value from the Family Ventures network",
+      "description": "The company may benefit from industrial expertise, commercial introductions, partnerships or go-to-market support.",
+      "weight": 1
+    }
+  ]
+}
